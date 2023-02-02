@@ -19,7 +19,7 @@
     "react-parallax-tilt": "^1.7.42",
     "react-pdf": "^5.7.1",
     "react-router-dom": "^6.2.2",
-    "react-scripts": "5.0.0",
+    "react-scripts": "^5.0.1",
     "react-tsparticles": "^1.42.2",
     "typewriter-effect": "^2.18.2",
     "web-vitals": "^2.1.4"
@@ -52,6 +52,7 @@
     "assert": "^2.0.0",
     "buffer": "^6.0.3",
     "crypto-browserify": "^3.12.0",
+    "gulp": "^4.0.2",
     "https-browserify": "^1.0.0",
     "os-browserify": "^0.3.0",
     "process": "^0.11.10",
