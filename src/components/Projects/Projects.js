@@ -28,7 +28,7 @@ function Projects() {
               title="Web Scraper"
               description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
               ghLink="https://github.com/RJ060501/tech-trends-api"
-              demoLink="tech-trends-api.vercel.app"
+              demoLink="https://tech-trends-fu9t1rub3-ryan-russells-projects.vercel.app/"
             />
           </Col>
 
