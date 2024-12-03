@@ -26,7 +26,7 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="Web Scraper"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="A Node.js-based application designed to scrape articles from specified websites and filter them based on user-provided keywords. The API allows users to dynamically fetch and display articles from various sources."
               ghLink="https://github.com/RJ060501/tech-trends-api"
               demoLink="https://tech-trends-fu9t1rub3-ryan-russells-projects.vercel.app/"
             />
