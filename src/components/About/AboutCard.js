@@ -10,8 +10,9 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Ryan Russell </span>
             based in <span className="purple"> Salt Lake City, Utah.</span>
-            <br />I am a junior pursuing Computer Sciences at the University
-            Of Utah.
+            <br />With an Associate’s degree in Computer Science, specializing
+             in Software Development, I am currently a junior pursuing
+              a Bachelor’s in Cloud Computing at Western Governors University.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
