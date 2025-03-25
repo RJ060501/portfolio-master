@@ -31,6 +31,16 @@ function Projects() {
               demoLink="https://tech-trends-i0k4ap2if-ryan-russells-projects.vercel.app/"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Video Streaming"
+              description="Powered by the YouTube Data API v3, this app lets users query videos, browse results, and watch them in a responsive layout. Perfect for API integration, state management, and modern front-end dev."
+              ghLink="https://github.com/RJ060501/portfolio-videos"
+              demoLink="https://portfolio-videos-git-main-ryan-russells-projects.vercel.app/"              
+            />
+          </Col>
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
