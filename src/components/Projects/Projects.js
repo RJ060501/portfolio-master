@@ -28,7 +28,7 @@ function Projects() {
               title="Web Scraper"
               description="A Node.js-based application designed to scrape articles from specified websites and filter them based on user-provided keywords. The API allows users to dynamically fetch and display articles from various sources."
               ghLink="https://github.com/RJ060501/tech-trends-api"
-              demoLink="https://tech-trends-i0k4ap2if-ryan-russells-projects.vercel.app/"
+              demoLink="https://tech-trends-api-git-main-ryan-russells-projects.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
