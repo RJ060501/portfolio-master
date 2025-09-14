@@ -27,8 +27,8 @@ function Projects() {
               isBlog={false}
               title="Web Scraper"
               description="A Node.js-based application designed to scrape articles from specified websites and filter them based on user-provided keywords. The API allows users to dynamically fetch and display articles from various sources."
-              ghLink="https://github.com/RJ060501/tech-trends-api"
-              demoLink="https://tech-trends-api-git-main-ryan-russells-projects.vercel.app/"
+              ghLink="https://github.com/RJ060501/climate-change-api"
+              demoLink="https://www.youtube.com/watch?v=4OHvyMP6VQs"
             />
           </Col>
           <Col md={4} className="project-card">
@@ -41,6 +41,16 @@ function Projects() {
               demoLink="https://portfolio-videos-git-main-ryan-russells-projects.vercel.app/"              
             />
           </Col>
+          {/* <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Snake Game"
+              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
+              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
+              demoLink="https://blogs.soumya-jit.tech/"
+            />
+          </Col> */}
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
