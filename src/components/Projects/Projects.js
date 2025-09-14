@@ -41,16 +41,15 @@ function Projects() {
               demoLink="https://portfolio-videos-git-main-ryan-russells-projects.vercel.app/"              
             />
           </Col>
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
               title="Snake Game"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              description="In this Snake Game implementation, I created a classic arcade experience using Java, where the snake navigates a 2D grid to eat apples, grow in length, and avoid self-collision or walls. I incorporated algorithms for movement logic, food randomization and collision detection via file I/O, with adjustable difficulty levels for speed."
+              demoLink="https://www.youtube.com/watch?v=ggAslmx9zf4"
             />
-          </Col> */}
+          </Col>
 
           {/* <Col md={4} className="project-card">
             <ProjectCard
