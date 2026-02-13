@@ -25,6 +25,16 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
+              title="AI Accounting Chat Bot"
+              description="A full-stack AI-powered chatbot that answers accounting questions using AWS Lex V2, Amazon Bedrock, and a React frontend with a Node.js/Express backend."
+              ghLink="https://github.com/RJ060501/ai-accountant-bot/tree/main"
+              demoLink="https://ai-accountant-bot-git-main-ryan-russells-projects.vercel.app/"
+            />
+          </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
               title="Web Scraper"
               description="A Node.js-based application designed to scrape articles from specified websites and filter them based on user-provided keywords. The API allows users to dynamically fetch and display articles from various sources."
               ghLink="https://github.com/RJ060501/climate-change-api"
@@ -38,7 +48,7 @@ function Projects() {
               title="Video Streaming"
               description="Powered by the YouTube Data API v3, this app lets users query videos, browse results, and watch them in a responsive layout. Perfect for API integration, state management, and modern front-end dev."
               ghLink="https://github.com/RJ060501/portfolio-videos"
-              demoLink="https://portfolio-videos-git-main-ryan-russells-projects.vercel.app/"              
+              demoLink="https://portfolio-videos-git-main-ryan-russells-projects.vercel.app/"
             />
           </Col>
           <Col md={4} className="project-card">
